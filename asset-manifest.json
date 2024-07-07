@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio/static/js/main.521ea4c9.js",
+    "static/media/dispenserImage.png": "/portfolio/static/media/dispenserImage.3a87c5cb2fe2b4563709.png",
+    "static/media/research_internship_cert.png": "/portfolio/static/media/research_internship_cert.46ba7ad2b4c767df8e31.png",
+    "static/media/xenia_22_home.png": "/portfolio/static/media/xenia_22_home.08606b2f0e1e8ca79c8f.png",
+    "static/media/HeroImage.jpg": "/portfolio/static/media/HeroImage.9de99c29ad97ae8b47aa.jpg",
+    "static/media/resolveIT.png": "/portfolio/static/media/resolveIT.7f9588bbd7b0b08c6de2.png",
+    "static/media/lawgpt_sample.jpeg": "/portfolio/static/media/lawgpt_sample.4dedd4ddb8ced6f15065.jpeg",
+    "static/media/mathwiz_home.jpg": "/portfolio/static/media/mathwiz_home.36630143a8aafd3e838c.jpg",
+    "static/media/woodkeep.png": "/portfolio/static/media/woodkeep.96701e27fb054516b1c2.png",
+    "index.html": "/portfolio/index.html",
+    "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
+    "main.521ea4c9.js.map": "/portfolio/static/js/main.521ea4c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.521ea4c9.js"
+  ]
+}
